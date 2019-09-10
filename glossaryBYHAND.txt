@@ -1,3 +1,4 @@
+subject-matter
 natural person
 personal data
 free movement
@@ -6,3 +7,16 @@ processing of personal data
 protection of personal data
 Union
 Regulament
+Directive
+material scope
+automated means
+filing system
+Union law
+Member States
+competent authorities
+criminal offences
+criminal penalties
+threats to public security
+liability rules
+service providers
+Regulation (EC) No 45/2001 (and such like)
