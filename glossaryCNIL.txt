@@ -1,0 +1,426 @@
+Unauthorised access
+Regulation   
+Single regulation 
+Personal or domestic activities
+Adequate, relevant and non excessive (data)    
+Provision of medical services/care/treatment   
+e-government 
+Employee's designated e-mail address
+First paragraph, sub-paragraph
+Anonymisation process
+Trade union affiliation
+Periodic Penalty Payments
+Targeted informational workshops
+(Serious) breach of rights and liberties
+Breach of privacy rights   
+Summons for hearing
+Authentication
+Authorisation by the CNIL  
+Authorisation granted
+Authorisation refused
+Authorisation deemed granted
+Authorisation deemed refused
+Single Authorisation
+Independent administrative authority
+Supervisory Authority
+Joint Supervisory Authority (JSA) Schengen and Customs ; Joint Supervisory Body (JSB) Europol
+Data protection authority (DPA)
+Representatives of the law
+Warning
+Warning issued to a data controller
+Opinion (by the CNIL)
+Favourable opinion
+Favourable opinion with reservations
+Unfavourable opinion
+Prior opinion
+Opinion deemed favourable
+Opinion deemed unfavourable
+Motivated opinion/justified opinion
+Providers of social housing
+Database ‚ Databank 
+Legal base; legal grounds   
+Biometric (data, devices) adjective
+Money laundering 
+CNIL executive committee     
+Identity card  
+Criminal record
+Licensing of data    
+Processing implementation officer
+CNIL registered data protection officer; Privacy Officer (US)
+Contractual clauses  
+Standard contractual clauses
+French DPA ; French data protection authority ; CNIL
+Civil Code Code civil
+Code of conduct
+Civil Procedure Code 
+Criminal Procedure Code
+Data collection
+Unfair, fraudulent or unlawful collection of data
+Local authority
+Local authorities  
+CNIL or Commissioners
+Advisory Committee
+Workers' Committee
+Commissioner
+Government Commissioner
+Freedom of Information Commission
+Communication (of data, of information)
+Electronic communication   
+Entering into a contract/Concluding a contract
+Compliance    
+(French) Constitutional Council
+The French Conseil d'Etat
+Consent
+Free consent
+Specific consent
+Informed consent
+Prior consent
+Data retention
+Data retention period
+Storing of archives ; Record-keeping
+Findings   Constatations
+Consultation procedure involving personnel representative bodies
+Circumvention of the rules
+Petty offences 
+Supervision/Monitoring (Supervisory or investigatory powers)
+Ex post investigations 
+Prior investigations   
+Onsite investigations
+Council of Europe Convention 108 for the Protection of Individuals with regard to Automatic Processing of Persona Data (Council of Europe Convention 108) Convention du Conseil de l‚ÄôEurope pour la protection des personnes √† l‚Äô√©gard du traitement automatis√© des donn√©es √† caract√®re personnel (Convention 108 du Conseil de l‚ÄôEurope)
+European Convention for the Protection of Human Rights and Fundamental Freedoms (ECHR)
+Emergency contact information
+Temporary copy
+Representative in an EU Member State
+Court of Appeals  
+Court of Justice of the European Union
+Court of Audits
+European Court for the Protection of Human Rights and Fundamental Rights (ECtHR)
+Court of Cassation 
+Automated decision
+the right to be informed of the logic involved in any automated processing
+Notification (of data processing) 
+Normal; ordinary notification
+Simplified notification
+To notify the CNIL of a data processing
+Defending one's right in court
+Deliberation
+After receiving the proof of
+Authorisation Request
+(Request a CNIL authorisation)
+Request for an opinion
+(Request an official CNIL opinion) 
+Request for advice   
+Referring (a case) or notifying something to the public prosecutor
+Data recipient
+Data Protection Official
+Purpose diversion
+Medical diagnosis
+Communication (publication)
+Unauthorised communication/publication of data
+Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data Directive 95/46/CE relative √† la protection des personnes physiques √† l‚Äô√©gard du traitement de leurs donn√©es √† caract√®re personnel et √† la libre circulation de ces donn√©es
+Discrimination
+Affirmative action
+Reverse discrimination
+Discrimination 
+Biometric devices
+Concealment
+Damages (general term)
+Can be compensatory or punitive damages.
+Raw data 
+(Processing of) data for the purpose of therapeutic and medicinal patient follow-ups
+Biometric data
+Encoded data
+Data containing the assessments of individuals' social difficulties
+Health data/ medical data
+Genetic data 
+Personal data
+Data relating to offences, criminal convictions or security measures
+Sensitive data
+Data processed for journalistic purposes or for literary or artistic expression
+Data processed for the scientific, historical or statistical purposes
+Disciplinary file  
+Medical record
+Right to be informed
+Right to be forgotten
+Right to be de-listed
+Right to the respect of private life / Right to privacy
+Right of access
+Right of indirect access to one‚Äôs data Indirect access rights
+Copyright
+Right to object
+Right to consult  
+Right to request the rectification (and erasure).
+Employment law (labour law)
+Legal claim    
+Establishment of a legal claim
+Exercising a legal claim
+Defending a legal claim
+Private international law
+Conflict of laws
+Public international law
+Human rights
+Retention periods    
+Erasure of data
+Disproportionate efforts
+Digital fingerprint
+Fingerprint
+Compliance commitment (to)
+Commit to comply with 
+The recording of telephone conversations
+Recording of data
+Hindrance to the CNIL supervisory powers; hindering the CNIL supervisory powers
+Registered company    
+Private company
+State-owned company   
+Epidemiology 
+Terminal connection equipment
+Accuracy of the data
+Performance of a contract
+Exemption from notification
+Judicial expert; court expert
+Utilise/Use personal data
+Retrieval   Extraction
+Security breach
+To be filed; to be put on file
+Fact Sheet   
+File (European Directive terminology: personal data filing system)
+Police file    
+Physical file/hard-copy file
+Private file
+Public file
+Dispute management files
+Purpose
+Explicit and legitimate purpose
+Predetermined purpose
+Compatible purpose
+Original purpose
+International/cross border data flows
+Prior formalities   
+Litigation committee
+Plenary session
+Restricted Committee
+Appeal the decision, case, sanction, etc‚
+Appeal the decision (case, sanction, etc) before the Court of Cassation, the State Council etc‚
+Standard data collection form
+Suitable safeguards
+Risk management
+Management of healthcare services   
+Economic Interest Group
+Severity (of a breach)
+Article 29 Working Party (WP29)
+Identifier 
+Unique identifier
+Sector-based identifier
+Identification of individuals
+(Human) Identity  
+Legal incapacity  
+Data on deceased persons     
+Cache data
+Information that does not comply with/
+Information that does not match the information
+Information technology (IT)
+Criminal offences      
+Criminal investigations and prosecutions
+Injunction to stop processing
+Injunction to suspend a transfer    
+Examine a compliant   
+Interconnection of files
+Prohibition on processing
+Temporary ban
+Definitive ban
+Interdiction permanente
+Interruption of processing
+Judge
+Judicial investigating authority
+Court of trail
+The jurisdiction is not competent for...
+Privacy Seal  ; certification procedure ; to certify
+European national data protection authorities
+Registered letter 
+With acknowledgement of receipt
+Freedom of expression
+Civil and individual liberties
+Free movement of goods, persons, services and capital  
+Lawfulness of processing
+Register of notified processing
+Business premises   
+Applicable law (applicable national law)
+Data Protection Act ; the French Data Protection Act
+Clinical batches    
+Fair and lawful (collection of data)
+Mandate
+Term of office
+Renewed mandate
+Violations ; Breach(es)
+Data protection offences
+Breaches of ethics in regulated professions
+Internal market
+Bad faith
+the organisation has acted in bad faith.
+Preventive medicine
+Ombudsman  
+General Conditions of Use
+Security measures  
+Technical security measures
+Organizational security measures
+Ministry (of) ; Department (of)
+Order
+To render an order
+Public interest mission
+Investigation
+Mission carried out in the exercise of an official authority
+Alteration (of data)   
+Legitimate grounds     
+Right to object to processing of data on legitimate and compelling grounds
+Overriding the ....(type of) function 
+Social Security number (SSN) 
+Adequate (equivalent/sufficient) level of protection   
+Simplified standard
+Identifier; identification number      
+Political opinions
+Mission order
+Agenda
+Organisation chart
+Professional associations
+Non-profit organisation
+Compliance packages
+Third country ; non-EU Member State   
+Individual    
+Data subject  
+Legal entity; legal person
+Private legal entity
+Private legal entity managing a public service
+Public legal entity  
+Individual; natural person    
+Monitoring of the side effects of drugs/medicines
+Claim-compliant (to lodge a claim/compliant)
+To breach, to infringe, violation
+Breaching human identity 
+Breaching privacy rights
+Breaching human rights
+Breaching individual and civil liberties
+Supervisory power    
+Sanction power
+Paragraph 58 of Preamble
+Harm; damage   
+Collection of biological identifiers
+Chair
+CNIL Chair
+Article 29 WP Chair
+Radio and TV press; audiovisual press
+Service provider    
+Crime prevention    
+Adversarial proceeding
+Emergency procedure 
+Notification procedure
+Record; Minutes (used for parliamentary meetings and other types of meetings)
+Public prosecutor     
+Public Prosecutor Office
+Health professional  
+Regulated professions
+Bill ; draft law
+Proportionality 
+Marketing
+Unsolicited commercial communications
+Protection of privacy, of private life
+Data protection; protection of personal data   
+Research protocol
+Submit a question for preliminary ruling 
+Annual report
+Cross-referencing of data 
+Approximation of laws
+Proof of receipt 
+CNIL Recommendation
+Administrative remedy
+Judicial remedies
+Collect any useful information
+Summary proceedings ; summary procedure
+Registers intended for public information  
+Internal rules of procedure   
+Sectoral rules 
+Personally; in person 
+Performance at work   
+Compensation for damages suffered
+Representative
+Personnel's representatives
+Legal representative
+Communication networks
+Liability (ties)
+Data controller
+Data controller 
+Source website administrator
+Withdrawal of an authorisation
+National register for the identification of individuals
+Social security number (SSN)
+Referral to the judicial authority
+Submission of a case to the CNIL
+Financial penalty    
+Sanction(s)
+Financial sanction; financial penalty (fine)
+Administrative sanction
+Criminal sanction
+Sanctions provided for in Article...
+Plenary session
+Trade secrets
+Business secrecy   
+Secrecy of correspondence 
+Professional secrecy
+Banking secrecy
+Medical confidentiality
+Secretary General
+Business line
+Public security
+Investigations Department
+Public services
+Digital signature
+Source website
+Risk source
+Data processor
+Storage
+Intermediary or temporary storage
+Medical or therapeutical follow-up
+State security
+Data processing system
+Online services (services provided at a distance) 
+Territory
+Third party
+Authorised third party
+Unauthorised third party     
+(right) holder
+Holder of parental rights
+Data subject 
+Data transmission      
+Transposition of a Directive
+Users
+Blocking      
+Private life; Privacy
+Casting vote  
+Vulnerability 
+Utilisation of personal data
+Report the violations to the State Prosecutor 
+Employment history    
+Intake/consumption    
+Unauthorised access   
+Conditions of use     
+Therapeutic care      
+Adverse effects and events  
+(Current) understanding of biology, diagnostics and medicine
+Protection of Persons Committee (PPC)
+Human proteomic data  
+Pharmacogenetic studies
+Pharmacogenomic study
+Genetic polymorphism
+A product's kinetics
+Individual variability
+New drug approval (N.D.A.)
+Summary of Product Characteristics 
+oncology   
+Pharmaco-economic
+Temporary Utilisation Authorisations (T.U.A.)
+Pharmacovigilance or adverse drug monitoring
+Validity and consistency checks
+Promoting agent
+Descriptive information
+Inclusion date
+Gender
+Biological analysis laboratories
