@@ -1,14 +1,22 @@
-subject-matter
-natural person
-personal data
-free movement
-fundamental rights
-processing of personal data
-protection of personal data
-Union
-Regulament
-Directive
-material scope
+subject-matter --> remove hyphen
+natural person = Natural persons are living and breathing individual human beings in opposition to "legal persons".
+personal data = Personal data are any information which are related to an identified or identifiable natural person.
+free movement = remove?
+fundamental rights = The GDPR provides the following rights for individuals:
+                     The right to be informed
+                     The right of access
+                     The right to rectification
+                     The right to erasure
+                     The right to restrict processing
+                     The right to data portability
+                     The right to object
+                     Rights in relation to automated decision making and profiling.
+processing of personal data = remove?
+protection of personal data = remove?
+Union = European Union
+Regulament = 
+Directive  =
+material scope =
 automated means
 filing system
 Union law
@@ -19,4 +27,6 @@ criminal penalties
 threats to public security
 liability rules
 service providers
+
+
 Regulation (EC) No 45/2001 (and such like)
